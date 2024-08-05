@@ -3,4 +3,5 @@ first git repo
 <br>
 Author : SAGNICK PAUL
 <br>
-College : 
+College : JADAVPUR UNIVERSITY
+
